@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "luidasa-condominio-app"
+    }
+  },
+  "defaultProject": "luidasa-condominio-app",
+  "cli": {
+    "analytics": false
+  }
 }
